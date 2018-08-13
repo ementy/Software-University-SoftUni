@@ -7,5 +7,6 @@
 - Simple Calculations
 - Logical checks
 - Loops & Drawing Shapes with Loops
+- Added new line
 
 
