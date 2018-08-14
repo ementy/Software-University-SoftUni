@@ -1,16 +1,16 @@
 # SoftUni Modules and Courses Summary
 
-### C# Web
+## C# Web Module
 
 Covering the fundamentals of the web based technologies and deep dive into the ASP.NET Core platform.
 
 | Courses | Dates | Grades | Certifications | Topics |
 | ------ | ------ | ------ | ------ | ------ | 
 | C# Web Development Basics | 17/09/2018 - October/2018 | --- | --- | [Details](C%23%20Web/C%23%20Web%20Development%20Basics) | 
-| C# MVC Frameworks - ASP.NET Core | October/2018 - January/2019 | --- | --- | [Details]("google.com") |
+| C# MVC Frameworks - ASP.NET Core | October/2018 - January/2019 | --- | --- | [TBD]() |
 
 
-### C# Database Fundamentals
+## C# Database Fundamentals Module
 
 Working with relational databases - Microsoft SQL Server & strong focus on the object-oriented modeling of data in C# with Entity Framework Core
 
@@ -20,7 +20,7 @@ Working with relational databases - Microsoft SQL Server & strong focus on the o
 | Databases Advanced - Entity Framework | 25/06/2018 - 13/08/2018 | --- | --- | [Details](C%23%20DB%20Fundamentals/Databases%20Advanced%20-%20EF%20Core) |
 
 
-### C# Fundamentals
+## C# Fundamentals Module
 
 Strudying the .NET platform and C# programming language in different aspects. Solving algorithm problems, developing algorith thinking and creating high-quality code.
 
@@ -31,7 +31,7 @@ Strudying the .NET platform and C# programming language in different aspects. So
 | C# OOP Advanced | 19/03/2018 - 23/04/2018 | 5.40/6.00 | [Certificate](https://softuni.bg/certificates/details/53632/4c5672b8) | [Details](C%23%20Fundamentals/C%23%20OOP%20Advanced) |
 
 
-### Tech Module
+## Tech Module
 
 Fundamental programming knowledge & overview of the most popular software technologies (PHP, Java, Javascript and C#).
 
@@ -41,9 +41,7 @@ Fundamental programming knowledge & overview of the most popular software techno
 | Software Technologies | 06/11/2017 - 04/01/2018 | 5.00/6.00 | [Certificate](https://softuni.bg/certificates/details/50627/2fbbb9e5) | [Details](Tech%20Module/Software%20Technologies) |
 
 
-### Programming Basics Module
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+## Programming Basics Module
 
 | Courses | Dates | Grades | Certifications | Topics |
 | ------ | ------ | ------ | ------ | ------ | 
