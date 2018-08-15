@@ -16,7 +16,7 @@ Working with relational databases - Microsoft SQL Server & strong focus on the o
 | Courses | Dates | Grades | Certifications | Topics |
 | ------ | ------ | ------ | ------ | ------ | 
 | Database Basics – MS SQL | 21/05/2018 - 20/06/2018 | 6.00/6.00 | [Certificate](https://softuni.bg/certificates/details/55500/317ae1df) | [Details](C%23%20DB%20Fundamentals/Databases%20Basics%20-%20MS%20SQL%20Server) | 
-| Databases Advanced - Entity Framework | 25/06/2018 - 13/08/2018 | --- | --- | [Details](C%23%20DB%20Fundamentals/Databases%20Advanced%20-%20EF%20Core) |  
+| Databases Advanced - Entity Framework | 25/06/2018 - 13/08/2018 | 5.55/6.00 | [Certificate](https://softuni.bg/certificates/details/57068/d8a616ab) | [Details](C%23%20DB%20Fundamentals/Databases%20Advanced%20-%20EF%20Core) |  
 
 ## C# Fundamentals Module
 
