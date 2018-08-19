@@ -1,0 +1,14 @@
+## Covered Topics
+- C# Into and basic syntax
+- Conditional statements and loops
+- Git and Github
+- Data types and variables
+- Methods, debugging and troubleshooting
+- Arrays, Lists, Dictionaries
+- Lambda expressions and LINQ
+- Object and classes
+- Files and Exceptions
+- String and text processing
+- Regular expressions (REGEX)
+- Exam preparations
+- Practical Exam

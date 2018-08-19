@@ -1,0 +1,13 @@
+## Covered Topics
+- DB Apps Introduction
+- ORM Fundamentals
+- Introduction to EntityFramework
+- Code-First
+- Entity Relations
+- Advanced relations & Aggregation
+- Advanced querying
+- C# Auto Mapping objects
+- Best practices and architecture
+- XML processing
+- JSON processing
+- Workshop
