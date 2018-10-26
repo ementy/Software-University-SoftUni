@@ -100,13 +100,13 @@ namespace SIS.HTTP.Requests
 
         private void ParseHeaders(string[] requestContent)
         {
-            foreach (var requestString in requestContent)
+            int currentIndex = 0;
+             
+            while (!string.IsNullOrEmpty(requestContent[currentIndex]))
             {
-                if (!string.IsNullOrEmpty(requestString))
-                {
-                    string[] splittedRequestString = requestString.Split(new[] { HttpRequestHeaderNameValueSeparator }, StringSplitOptions.RemoveEmptyEntries);
-                    this.Headers.Add(new HttpHeader(splittedRequestString[0], splittedRequestString[1]));
-                }
+                string[] headerArguments = requestContent[currentIndex++].Split(HttpRequestHeaderNameValueSeparator);
+
+                this.Headers.Add(new HttpHeader(headerArguments[0], headerArguments[1]));
             }
 
             if (!this.Headers.ContainsHeader(GlobalConstants.HostHeaderKey))
@@ -211,7 +211,7 @@ namespace SIS.HTTP.Requests
 
         private void ParseRequest(string requestString)
         {
-            string[] splitRequestContent = requestString.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
+            string[] splitRequestContent = requestString.Split(new[] { GlobalConstants.HttpNewLine }, StringSplitOptions.None);
 
             string[] requestLine = splitRequestContent[0].Trim().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
